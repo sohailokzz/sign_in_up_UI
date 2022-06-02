@@ -1,10 +1,10 @@
-# sign_in_up_ui
+# Sign-In-Up_UI
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is beautifull Sign In and Sign Up UI in flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
